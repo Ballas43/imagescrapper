@@ -1,0 +1,16 @@
+{
+  "name": "image-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^8.0.0",
+    "g-i-s": "^2.1.6",
+    "image-search-engine": "^1.2.0"
+  }
+}
