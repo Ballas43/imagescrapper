@@ -22,4 +22,4 @@ function image(keyword){
         }
     }
 }
-image('love live sunshine')
+image('insert your query')
